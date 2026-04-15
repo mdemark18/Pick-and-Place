@@ -1,5 +1,3 @@
-<<<<<<< Updated upstream
-=======
 # KiCAD Setup
 
 This is written with the assumption that the user has a basic understanding of KiCAD and already has made a PCB in the program. Your PCB should be made and ready to go when starting this guide.
@@ -54,4 +52,3 @@ The Python script attached that will do this for you (from KiCAD export, doesnâ€
 ## Notes
 
 I haven't played around with the KiCAD setup too much, the only thing I've noticed with having the PCB placed where it is is that the voltage regulators are off by a rotation of 180 degrees, everything else seems to be fine. These all can and will be fixed in the Converter Tool, just be vigilant and check tape setup and rotation in the tool.
->>>>>>> Stashed changes
