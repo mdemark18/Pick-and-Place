@@ -22,7 +22,7 @@ This repo will go over the entire workflow for the pick and place machine in NRR
     2. [Checking Componenets](/Files/docs/converterTool.md#comps)
     3. [Componenet Stacks](/Files/docs/converterTool.md#stacks)
     4. [Exporting DPV](/Files/docs/converterTool.md#dpv)
-    5. [Notes](/Files/docs/converterTool.md#notes)\
+    5. [Notes](/Files/docs/converterTool.md#notes)
 
 3. [Pick and Place Machine](/Files/docs/pickAndPlace.md)
     1. [Importing DPV](/Files/docs/pickAndPlace.md#start)
