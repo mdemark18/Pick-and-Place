@@ -1,23 +1,29 @@
 # Pick and Place Documentation
+
 ## Overview
+
 This repo will go over the entire workflow for the pick and place machine in NRRC 313. I will use the Binary Counter as an example, but the workflow is exactly the same for any PCB you may want to populate using this machine. This will run through outputting KiCAD to the Converter Tool, then from the Converter Tool to the machine itself. The Converter Tool can be found [here](/Files/programs/ConverterTool).
 
 ## Quick Access
+
 - [Table of Contents](/Files/docs/tableOfContents.md)
 - [Converter Tool](/Files/programs/ConverterTool)
 
 ## Table of Contenets
+
 1. [KiCAD](/Files/docs/kicad.md)
-    1. [File Setup](/Files/docs/kicad.md#file-setup)
+    1. [File Setup](/Files/docs/kicad.md#File-Setup)
     2. [Exporting](/Files/docs/kicad.md#exporting)
     3. [Python Tool](/Fils/docs/kicad.md#python)
     4. [Notes](/Files/docs/kicad.md#notes)
+
 2. [Converter Tool](/Files/docs/converterTool.md)
     1. [Importing File from CSV](/Files/docs/converterTool.md#importing)
     2. [Checking Componenets](/Files/docs/converterTool.md#comps)
     3. [Componenet Stacks](/Files/docs/converterTool.md#stacks)
-    3. [Exporting DPV](/Files/docs/converterTool.md#dpv)
-    4. [Notes](/Files/docs/converterTool.md#notes)
+    4. [Exporting DPV](/Files/docs/converterTool.md#dpv)
+    5. [Notes](/Files/docs/converterTool.md#notes)\
+
 3. [Pick and Place Machine](/Files/docs/pickAndPlace.md)
     1. [Importing DPV](/Files/docs/pickAndPlace.md#start)
     2. [Editing File](/Files/docs/pickAndPlace.md#editing)
