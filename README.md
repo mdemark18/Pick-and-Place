@@ -8,9 +8,15 @@ This repo will go over the entire workflow for the pick and place machine in NRR
 
 ## Table of Contenets
 1. [KiCAD](/Files/docs/kicad.md)
+<<<<<<< Updated upstream
     1. [File Setup](/Files/docs/kicad.md#file-setup)
     2. [Exporting](/Files/docs/kicad.md#exporting)
     3. [Python Tool](/Fils/docs/kicad.md#python)
+=======
+    1. [File Setup](/Files/docs/kicad.md#File-Setup)
+    2. [Exporting](/Files/docs/kicad.md#Exporting)
+    3. [Python Tool](/Fils/docs/kicad.md#Python-Tool)
+>>>>>>> Stashed changes
     4. [Notes](/Files/docs/kicad.md#notes)
 2. [Converter Tool](/Files/docs/converterTool.md)
     1. [Importing File from CSV](/Files/docs/converterTool.md#importing)
