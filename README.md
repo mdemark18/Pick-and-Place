@@ -7,7 +7,7 @@ This repo will go over the entire workflow for the pick and place machine in NRR
 - [Table of Contents](/Files/docs/tableOfContents.md)
 - [Converter Tool](/Files/programs/ConverterTool)
 
-## Table of Contenets
+## Table of Contents
 
 1. [KiCAD](/Files/docs/kicad.md)
     1. [File Setup](/Files/docs/kicad.md#File-Setup)
